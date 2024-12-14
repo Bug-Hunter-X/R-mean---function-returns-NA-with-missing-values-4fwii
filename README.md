@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle issue in R programming related to the `mean()` function and handling missing values (NA). The `bug.r` file contains code that calculates the mean of a vector containing NA, and shows the unexpected NA result. The `bugSolution.r` file presents various solutions to handle this situation and obtain the desired mean.
